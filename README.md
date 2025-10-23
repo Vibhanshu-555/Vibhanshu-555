@@ -18,7 +18,7 @@ My focus areas include **user behavior analysis**, **conversion funnel optimizat
 
 ## 📊 Featured Project  
 
-### [Ecommerce Analytics SQL + Tableau Dashboard](https://github.com/Vibhanshu-555/ecommerce-analytics-sql-dashboard)  
+### [Ecommerce Funnel and Cohort Analytics SQL + Tableau Dashboard](https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis)  
 Analyzed user purchase funnel, retention cohorts, and product/category insights.  
 - Tools: SQL (data extraction & cleaning), Tableau (dashboarding), Excel (pre-analysis)  
 - Insights: Identified **Add to Cart** as a major drop-off stage; highlighted top brands, categories, and retention trends  
