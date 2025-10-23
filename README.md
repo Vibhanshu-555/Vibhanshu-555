@@ -9,7 +9,7 @@ Focused on **performance optimization**, **catalog insights**, and **business in
 
 ## 📊 Featured Projects  
 
-### 🟠 [Amazon Bend the Curve – Catalog Optimization | Python, Power Query, Power BI | Oct 2025](https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve)
+### 📦 [Amazon Bend the Curve – Catalog Optimization | Python · Power Query · Power BI | Oct 2025](https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve)
 - Analyzed **42,675 Amazon listings** using `pandas`, `numpy`, and `matplotlib` to assess **sales**, **ratings**, and **listing completeness**.  
 - Built composite **Health Score** metric → avg. **0.68**, revealing **152 dead listings** and **4 overcrowded categories**.  
 - Designed an interactive **Power BI dashboard** to visualize product health, category performance, and improvement areas.  
@@ -17,10 +17,11 @@ Focused on **performance optimization**, **catalog insights**, and **business in
 
 ---
 
-### 🟣 [Ecommerce Funnel & Cohort Analytics | SQL, Excel, Tableau | Mar 2024](https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis)  
-- Analyzed **user purchase funnel** and **retention cohorts** using SQL; visualized in Tableau.  
-- Identified **Add-to-Cart** as major drop-off stage and surfaced top brands & retention trends.  
-- Delivered interactive Tableau dashboard and reusable SQL data pipeline.  
+### 🛒 [Ecommerce Funnel & Cohort Analytics | SQL · Tableau · Excel | Oct 2025](https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis)  
+- Analyzed **1M+** e-commerce transactions to evaluate user behavior, conversion funnels, and retention.
+- Found **3.45%** add-to-cart rate and **80.5%** cart-to-purchase completion.
+- Built interactive **Tableau dashboard** visualizing KPIs, brand/category trends, and product-level insights.
+- Insights drove targeted **UX and marketing optimizations**, improving **View→Cart conversion strategy**.  
 
 ---
 
