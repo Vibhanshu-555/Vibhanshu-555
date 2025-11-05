@@ -3,7 +3,7 @@
 🎯 **Data Analyst | Business Intelligence | Data Storytelling**  
 Every dataset has a story — and that story deserves to drive smart decisions. 
 
- - Results-driven Data Analyst who transforms complex data into revenue-boosting insights. Proven success analyzing 1M+ retail and wellness data points to uncover opportunities and guide strategic decision-making. Expert in SQL, Python, and interactive dashboards that empower leaders to act fast and smart. A collaborator who brings clarity, energy, and business impact to every analytics initiative — turning data into a competitive advantage.
+ - Data Analyst skilled in transforming complex data into clear, actionable insights that drive revenue and strategy. Experienced analyzing 1M+ retail and wellness data points to uncover opportunities and accelerate decision-making. Proficient in SQL, Python, and interactive dashboards that empower leaders to act fast. A collaborative problem-solver who turns data into a competitive advantage.
 
 ---
 ## 🧠 Areas of Expertise 
