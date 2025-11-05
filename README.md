@@ -29,23 +29,13 @@ Every dataset has a story — and that story deserves to drive smart decisions.
 
 ## 📊 Featured Projects  
 
-### 📦 [Amazon Bend the Curve – Product Catalog Analysis](https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve)  
+### 📦 [Amazon Bend the Curve - Case Study](https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve)  
 - Analyzed **42,675 product listings** to assess sales performance, ratings, and catalog completeness.  
 - Engineered a **Health Score (avg. 0.68)** revealing **152 dead listings** and **4 overcrowded categories**.  
 - Designed a **Power BI dashboard** enabling real-time monitoring of product health and visibility trends.  
 
 **Impact:** Enhanced decision-making for catalog optimization and performance tracking.  
 **Skills:** Python (Pandas, NumPy, Matplotlib), Power BI, EDA, KPI Development  
-
----
-
-### 🛒 [Ecommerce Funnel & Cohort Analytics](https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis)  
-- Examined **1M+ transaction records** to evaluate **user behavior**, **funnel conversion**, and **retention**.  
-- Identified **3.45% add-to-cart rate** and **80.5% cart-to-purchase completion**, optimizing funnel strategy.  
-- Built **interactive Tableau dashboards** visualizing KPIs, category performance, and retention cohorts.  
-
-**Impact:** Provided insights to refine marketing campaigns and boost conversion efficiency.  
-**Skills:** SQL, Tableau, Excel, Funnel & Cohort Analysis  
 
 ---
 
@@ -56,6 +46,16 @@ Every dataset has a story — and that story deserves to drive smart decisions.
 
 **Impact:** Strengthened Bellabeat’s positioning through actionable wellness insights and campaign ideas.  
 **Skills:** Python (EDA, Visualization), Data Storytelling, Report Writing  
+
+---
+
+### 🛒 [Ecommerce Funnel & Cohort Analytics](https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis)  
+- Examined **1M+ transaction records** to evaluate **user behavior**, **funnel conversion**, and **retention**.  
+- Identified **3.45% add-to-cart rate** and **80.5% cart-to-purchase completion**, optimizing funnel strategy.  
+- Built **interactive Tableau dashboards** visualizing KPIs, category performance, and retention cohorts.  
+
+**Impact:** Provided insights to refine marketing campaigns and boost conversion efficiency.  
+**Skills:** SQL, Tableau, Excel, Funnel & Cohort Analysis  
 
 ---
 
