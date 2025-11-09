@@ -3,7 +3,7 @@
 🎯 **Data Analyst | Business Intelligence | Data Storytelling**  
 Every dataset has a story — and that story deserves to drive smart decisions. 
 
- - Data Analyst skilled in transforming complex data into clear, actionable insights that drive revenue and strategy. Experienced analyzing 1M+ retail and wellness data points to uncover opportunities and accelerate decision-making. Proficient in SQL, Python, and interactive dashboards that empower leaders to act fast. A collaborative problem-solver who turns data into a competitive advantage.
+Data Analytics & Operations Specialist blending Computer Engineering and certified data skills (Python, SQL, Tableau, AI Automation). Demonstrated analytical expertise across three major projects: Bellabeat User Behavior Analysis, Amazon Catalog Optimization, and eCommerce Funnel/Cohort Analytics. Focused on translating complex data into immediate, quantifiable business impact.
 
 ---
 ## 🧠 Areas of Expertise 
