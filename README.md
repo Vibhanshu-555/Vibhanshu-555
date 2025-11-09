@@ -3,7 +3,7 @@
 🎯 **Data Analyst | Business Intelligence | Data Storytelling**  
 Every dataset has a story — and that story deserves to drive smart decisions. 
 
-Data Analytics & Operations Specialist blending Computer Engineering and certified data skills (Python, SQL, Tableau, AI Automation). Demonstrated analytical expertise across three major projects: Bellabeat User Behavior Analysis, Amazon Catalog Optimization, and eCommerce Funnel/Cohort Analytics. Focused on translating complex data into immediate, quantifiable business impact.
+Data Analytics & Operations Specialist blending Computer Engineering and [Certified](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/166086652) data skills (Python, SQL, Tableau, AI Automation). Demonstrated analytical expertise across three major projects: Bellabeat User Behavior Analysis, Amazon Catalog Optimization, and eCommerce Funnel/Cohort Analytics. Focused on translating complex data into immediate, quantifiable business impact.
 
 ---
 ## 🧠 Areas of Expertise 
