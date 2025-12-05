@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f4710b15-4734-4af6-82f7-f4148f906260.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </div>
 <br>
 
@@ -88,6 +88,11 @@
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</div>
+<br>
+
+<div align="center">
   <h2>⚡ The Engine Room</h2>
   <i>Blending raw technical power with strategic foresight.</i>
   <br><br>
@@ -145,7 +150,10 @@
 <br>
 
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+  <br><br>
+
+<div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
   
   <h3>Ready to turn your data into leverage?</h3>
