@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions.;Engineering+Clarity+from+Chaos.;Bridging+Tech+and+Strategy." alt="Typing SVG" />
   </a>
@@ -13,7 +12,8 @@
   **Computer Engineering** background. **Data Analytics** expertise. **AI-Augmented** workflow.
   <br>
   I build diagnostic dashboards and pipelines that answer the question: *"What do we do next?"*
-
+  <br>
+  <b>(Ex-Project Lead | Managed 40+ Team)</b>
 </div>
 
 <br>
@@ -29,7 +29,11 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ AI Reliability Audit</h3>
+      <h3 align="center">
+        <a href="https://github.com/Vibhanshu-555/Human-Aligned-LLM-Evaluation-Audit" style="text-decoration:none; color:inherit;">
+          🛡️ GenAI Model Evaluation Audit
+        </a>
+      </h3>
       <div align="center">
          <img src="https://img.shields.io/badge/Strategy-Risk_Mitigation-FF5733?style=for-the-badge"/>
       </div>
@@ -39,25 +43,42 @@
       <div align="center">
         <code>Python</code> <code>Pandas</code> <code>Power BI</code>
       </div>
-      <p align="center"><a href="https://github.com/Vibhanshu-555/Human-Aligned-LLM-Evaluation-Audit"><b>View Audit &raquo;</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Amazon Ops Analysis</h3>
+      <br>
       <div align="center">
-         <img src="https://img.shields.io/badge/Strategy-Cost_Reduction-0078D7?style=for-the-badge"/>
+        <a href="https://github.com/Vibhanshu-555/Human-Aligned-LLM-Evaluation-Audit">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+  <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve" style="text-decoration:none; color:inherit;">
+          📦 Amazon Sales Analysis & KPI Dashboard
+        </a>
+      </h3>
+      <div align="center">
+         <img src="https://img.shields.io/badge/Strategy-Listing_Optimization-0078D7?style=for-the-badge"/>
       </div>
       <br>
-      <p><b>The Problem:</b> 42k+ catalog listings were cluttering the database, skewing metrics and wasting ad spend.</p>
-      <p><b>The Impact:</b> Engineered a <b>Health Score</b> algorithm. Flagged <b>152 dead listings</b> for removal, optimizing the budget for high-performers.</p>
+      <p><b>The Problem:</b> The Electronics category was saturated with 42k+ products, making it difficult to distinguish dead stock from high-performers.</p>
+      <p><b>The Impact:</b> Engineered a <b>Health Score</b> algorithm. Flagged <b>152 cluttering listings</b> for removal, streamlining the catalog to prioritize high-value items.</p>
       <div align="center">
         <code>KPI Design</code> <code>Python</code> <code>NumPy</code>
       </div>
-      <p align="center"><a href="https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve"><b>View Analysis &raquo;</b></a></p>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Vibhanshu-555/Amazon-Bend-the-Curve">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Funnel Optimization</h3>
+      <h3 align="center">
+        <a href="https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis" style="text-decoration:none; color:inherit;">
+          🛒 E-commerce Funnel & Cohort Analysis
+        </a>
+      </h3>
       <div align="center">
          <img src="https://img.shields.io/badge/Strategy-Revenue_Growth-28B463?style=for-the-badge"/>
       </div>
@@ -67,10 +88,19 @@
       <div align="center">
         <code>SQL</code> <code>Tableau</code> <code>Cohort Analysis</code>
       </div>
-      <p align="center"><a href="https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis"><b>View Strategy &raquo;</b></a></p>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Vibhanshu-555/Ecommerce-Funnel-Cohort-Analysis">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌿 Market Entry Strategy</h3>
+      <h3 align="center">
+        <a href="https://github.com/Vibhanshu-555/Google-Data-Analytics-Bellabeat-Case-Study" style="text-decoration:none; color:inherit;">
+          🌿 Bellabeat Market Entry Strategy
+        </a>
+      </h3>
       <div align="center">
          <img src="https://img.shields.io/badge/Strategy-User_Segmentation-8E44AD?style=for-the-badge"/>
       </div>
@@ -80,7 +110,12 @@
       <div align="center">
         <code>EDA</code> <code>Python</code> <code>Visualization</code>
       </div>
-      <p align="center"><a href="https://github.com/Vibhanshu-555/Google-Data-Analytics-Bellabeat-Case-Study"><b>View Case Study &raquo;</b></a></p>
+      <br>
+      <div align="center">
+        <a href="https://github.com/Vibhanshu-555/Google-Data-Analytics-Bellabeat-Case-Study">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
@@ -110,16 +145,16 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     </td>
-   
+    
    <td width="25%" align="center" valign="top">
       <h3>🧠 Strategic Vision</h3>
       <i>The "Why" Behind the Data</i>
       <br><br>
       <img src="https://img.shields.io/badge/KPI_Design-000000?style=for-the-badge&logo=google-analytics&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Trend_Forecasting-000000?style=for-the-badge&logo=google-trends&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cohort_Analysis-000000?style=for-the-badge&logo=google-trends&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/Risk_Assessment-000000?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Diagnostic_Analysis-000000?style=for-the-badge&logo=micro-strategy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data_Modeling-000000?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge&logo=micro-strategy&logoColor=white"/>
     </td>
 
   <td width="25%" align="center" valign="top">
@@ -130,15 +165,15 @@
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Data_Storytelling-FF5733?style=for-the-badge&logo=medium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DAX-FF5733?style=for-the-badge&logo=powerbi&logoColor=white"/>
     </td>
 
    <td width="25%" align="center" valign="top">
       <h3>🤖 AI & Acceleration</h3>
       <i>Modern Workflow Efficiency</i>
       <br><br>
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLMs-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
       <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Prompt_Eng-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
