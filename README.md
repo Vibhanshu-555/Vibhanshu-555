@@ -13,13 +13,13 @@ Marketplaces, funnels, models, behaviour — places where signal hides inside no
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </div>
 
-## Analytical Work
+## 🔎 Analytical Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡 GenAI Model Evaluation Audit
+### 🤖 GenAI Model Evaluation Audit
 LLMs often appear coherent even when they diverge from human judgement.  
 I quantified that divergence across domains and task types.
 
@@ -64,7 +64,7 @@ I mapped behavioural flow to locate where conversion collapses.
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Smart Device Behavioural Analysis
+### ⌚ Smart Device Behavioural Analysis
 Wearable data reflects lifestyle rhythm more than fitness.  
 This exploration reveals dominant behavioural structure.
 
@@ -83,11 +83,22 @@ This exploration reveals dominant behavioural structure.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </div>
 
-## Tool Stack
+## ⚙️ Tool Stack
 
-SQL · Power BI · Excel · Python (Pandas) · BigQuery · Tableau · DAX  
-KPI design · Funnel analysis · Cohort analysis · Data modelling  
-Data cleaning · Data quality validation · Dashboard development · Automation
+**Languages & Query:**  
+SQL · Python (Pandas) · BigQuery · DAX  
+
+**Analytics & Modelling:**  
+KPI design · Funnel analysis · Cohort analysis · Statistical exploration  
+
+**Data Engineering & Quality:**  
+Data cleaning · Data validation · Transformation · Automation  
+
+**Visualisation & BI:**  
+Power BI · Tableau · Dashboard design · Insight communication  
+
+**Workflow:**  
+Analytical framing · Metric architecture · Behavioural analysis
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
